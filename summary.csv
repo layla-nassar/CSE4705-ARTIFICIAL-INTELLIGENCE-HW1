@@ -1,0 +1,7 @@
+algorithm,found,path_length,nodes_explored,optimal,exec_time_sec
+BFS,True,18,43,True,0.000134
+DFS,True,22,30,False,0.000082
+UCS,True,18,46,True,0.000156
+DLDFS(L=25),True,18,19,False,0.000162
+IDDFS,True,18,384,True,0.000858
+A* (Manhattan),True,18,28,True,0.000104
